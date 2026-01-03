@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Tirgul33._1._2026
+namespace EDR_P_V3
 {
     internal static class Program
     {

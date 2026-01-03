@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{92E323B7-D8EB-415B-9946-7A6614F163D8}</ProjectGuid>
+    <ProjectGuid>{E65BA03C-9FC4-40B6-88ED-5868439ABE99}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Tirgul33._1._2026</RootNamespace>
-    <AssemblyName>Tirgul33.1.2026</AssemblyName>
+    <RootNamespace>EDR_P_V3</RootNamespace>
+    <AssemblyName>EDR_P_V3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

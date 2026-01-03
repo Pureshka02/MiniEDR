@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Tirgul33.1.2026")]
+[assembly: AssemblyTitle("EDR_P_V3")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Tirgul33.1.2026")]
+[assembly: AssemblyProduct("EDR_P_V3")]
 [assembly: AssemblyCopyright("Copyright ©  2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("92e323b7-d8eb-415b-9946-7a6614f163d8")]
+[assembly: Guid("e65ba03c-9fc4-40b6-88ed-5868439abe99")]
 
 // Version information for an assembly consists of the following four values:
 //

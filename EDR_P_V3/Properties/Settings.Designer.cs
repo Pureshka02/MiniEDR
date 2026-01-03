@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Tirgul33._1._2026.Properties
+namespace EDR_P_V3.Properties
 {
 
 
